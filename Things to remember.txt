@@ -1,0 +1,5 @@
+- Run "npm install" to install all necessary modules, you will have to run this command in the parent directory and in the "client" folder
+    - When testing frontend stuff, navigate to the "client" fodler and run "npm run build"
+    - Once that is done, then go back to the parent directory and run "npm start"
+- ALL React stuff should go in the "client" folder, so please make sure the console is in the folder before you install packages
+- Also, make a branch when you are doing stuff and communicate when pushing or merging to master
